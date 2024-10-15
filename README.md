@@ -14,4 +14,4 @@
   ____
 
   
-  [Ссылка на дашборд](https://datalens.yandex.cloud/luk65u49sbdk8-proekt-avariynost-zhkh?state=feeb054356)
+  [Ссылка на дашборд](https://datalens.yandex/luk65u49sbdk8)
